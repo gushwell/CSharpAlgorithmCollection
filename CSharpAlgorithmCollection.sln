@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveOfEratosthenesPart1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveOfEratosthenesPart2", "SieveOfEratosthenesPart2\SieveOfEratosthenesPart2.csproj", "{10092F92-2A19-48F1-84AF-2E7F2C74449F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveOfEratosthenesPart3", "SieveOfEratosthenesPart3\SieveOfEratosthenesPart3.csproj", "{9B2404AB-17C6-407B-8CD4-DC6483F6B5C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{10092F92-2A19-48F1-84AF-2E7F2C74449F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10092F92-2A19-48F1-84AF-2E7F2C74449F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10092F92-2A19-48F1-84AF-2E7F2C74449F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2404AB-17C6-407B-8CD4-DC6483F6B5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2404AB-17C6-407B-8CD4-DC6483F6B5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2404AB-17C6-407B-8CD4-DC6483F6B5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2404AB-17C6-407B-8CD4-DC6483F6B5C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
