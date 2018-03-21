@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveOfEratosthenesPart3", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSample", "FibonacciSample\FibonacciSample.csproj", "{77F9E9E1-3798-4AEB-92F7-1825F7E0F6E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonFactor", "GreatestCommonFactor\GreatestCommonFactor.csproj", "{84B554B0-3B79-4F5F-B30C-16B3BD1434B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,5 +45,9 @@ Global
 		{77F9E9E1-3798-4AEB-92F7-1825F7E0F6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77F9E9E1-3798-4AEB-92F7-1825F7E0F6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77F9E9E1-3798-4AEB-92F7-1825F7E0F6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B554B0-3B79-4F5F-B30C-16B3BD1434B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B554B0-3B79-4F5F-B30C-16B3BD1434B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B554B0-3B79-4F5F-B30C-16B3BD1434B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B554B0-3B79-4F5F-B30C-16B3BD1434B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
