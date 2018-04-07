@@ -1,6 +1,7 @@
 # CSharpAlgorithmCollection
 C#によるアルゴリズムサンプルの数々
 
+
 ### FactorialSample
 
 再帰処理で、nの階乗を計算する
@@ -12,6 +13,10 @@ C#によるアルゴリズムサンプルの数々
 ### GreatestCommonFactor    
 
 最大公約数を求める （ユークリッドの互除法）
+
+### EnumerateKaprekarNumber 
+
+カプレカ数を列挙する
 
 ### SieveOfEratosthenesPart1
 
