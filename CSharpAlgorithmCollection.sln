@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerateKaprekarNumber", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeByMillarRrabin", "PrimeByMillarRrabin\PrimeByMillarRrabin.csproj", "{181EA664-C059-49FD-A12F-62D595282B00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollardsRhoPrimeFactor", "PollardsRhoPrimeFactor\PollardsRhoPrimeFactor.csproj", "{1FA680E8-7420-42B3-BDA9-4FDB1D0D18CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,5 +63,9 @@ Global
 		{181EA664-C059-49FD-A12F-62D595282B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{181EA664-C059-49FD-A12F-62D595282B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{181EA664-C059-49FD-A12F-62D595282B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA680E8-7420-42B3-BDA9-4FDB1D0D18CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA680E8-7420-42B3-BDA9-4FDB1D0D18CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA680E8-7420-42B3-BDA9-4FDB1D0D18CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA680E8-7420-42B3-BDA9-4FDB1D0D18CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
