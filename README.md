@@ -1,6 +1,9 @@
 # CSharpAlgorithmCollection
 C#によるアルゴリズムサンプルの数々
 
+### EnumerateKaprekarNumber 
+
+カプレカ数を列挙する
 
 ### FactorialSample
 
@@ -14,9 +17,9 @@ C#によるアルゴリズムサンプルの数々
 
 最大公約数を求める （ユークリッドの互除法）
 
-### EnumerateKaprekarNumber 
+### MersennePrime
 
-カプレカ数を列挙する
+メルセンヌ素数を利用して完全数を求める
 
 ### PollardsRhoPrimeFactor
 
