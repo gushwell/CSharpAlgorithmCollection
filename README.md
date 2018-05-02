@@ -1,6 +1,10 @@
 # CSharpAlgorithmCollection
 C#によるアルゴリズムサンプルの数々
 
+### AmicableNumber
+
+友愛数を列挙する
+
 ### EnumerateKaprekarNumber 
 
 カプレカ数を列挙する

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollardsRhoPrimeFactor", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MersennePrime", "MersennePrime\MersennePrime.csproj", "{CA98ED69-4C8B-4CB5-86CB-1A1D01E38F4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmicableNumber", "AmicableNumber\AmicableNumber.csproj", "{691F2419-A170-492D-B735-737A084FEA40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,5 +75,9 @@ Global
 		{CA98ED69-4C8B-4CB5-86CB-1A1D01E38F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA98ED69-4C8B-4CB5-86CB-1A1D01E38F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA98ED69-4C8B-4CB5-86CB-1A1D01E38F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691F2419-A170-492D-B735-737A084FEA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691F2419-A170-492D-B735-737A084FEA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691F2419-A170-492D-B735-737A084FEA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691F2419-A170-492D-B735-737A084FEA40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
