@@ -1,9 +1,15 @@
 # CSharpAlgorithmCollection
-C#によるアルゴリズムサンプルの数々
+
+[Qiita](https://qiita.com/gushwell) に掲載した各種アルゴリズム(主に数学)サンプルの数々を公開しています。
+
 
 ### AmicableNumber
 
-友愛数を列挙する
+友愛数のペアを列挙する
+
+### BetrothedNumber
+
+婚約数(準友愛数)のペアを列挙する
 
 ### EnumerateKaprekarNumber 
 

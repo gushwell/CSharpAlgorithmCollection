@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmicableNumber", "AmicableN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeastCommonMultiple", "LeastCommonMultiple\LeastCommonMultiple.csproj", "{CC4BA0C4-18BA-4A44-ADB1-2214521F4EDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetrothedNumber", "BetrothedNumber\BetrothedNumber.csproj", "{54759339-3182-4F49-86A5-E283FFC2F508}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,5 +87,9 @@ Global
 		{CC4BA0C4-18BA-4A44-ADB1-2214521F4EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC4BA0C4-18BA-4A44-ADB1-2214521F4EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC4BA0C4-18BA-4A44-ADB1-2214521F4EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54759339-3182-4F49-86A5-E283FFC2F508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54759339-3182-4F49-86A5-E283FFC2F508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54759339-3182-4F49-86A5-E283FFC2F508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54759339-3182-4F49-86A5-E283FFC2F508}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
