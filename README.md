@@ -23,6 +23,10 @@
 
 フィボナッチ数を列挙する。
 
+### GoldbachsConjecture
+
+「ゴールドバッハの予想」をlong以下で確認する
+
 ### GreatestCommonFactor    
 
 最大公約数を求める （ユークリッドの互除法）
@@ -34,6 +38,7 @@
 ### MersennePrime
 
 メルセンヌ素数を利用して完全数を求める
+
 
 ### PollardsRhoPrimeFactor
 

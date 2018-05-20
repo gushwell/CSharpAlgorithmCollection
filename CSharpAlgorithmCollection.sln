@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeastCommonMultiple", "Leas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetrothedNumber", "BetrothedNumber\BetrothedNumber.csproj", "{54759339-3182-4F49-86A5-E283FFC2F508}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldbachsConjecture", "GoldbachsConjecture\GoldbachsConjecture.csproj", "{BF876115-45FD-4401-BA1C-927E41C34683}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,5 +93,9 @@ Global
 		{54759339-3182-4F49-86A5-E283FFC2F508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54759339-3182-4F49-86A5-E283FFC2F508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54759339-3182-4F49-86A5-E283FFC2F508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF876115-45FD-4401-BA1C-927E41C34683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF876115-45FD-4401-BA1C-927E41C34683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF876115-45FD-4401-BA1C-927E41C34683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF876115-45FD-4401-BA1C-927E41C34683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
