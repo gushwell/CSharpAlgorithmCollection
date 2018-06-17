@@ -60,3 +60,7 @@
 
 エラトステネスの篩で素数を列挙する　素数を列挙する最高のバージョン
 
+### TriangularNumber
+
+三角数(triangular number)を列挙する
+

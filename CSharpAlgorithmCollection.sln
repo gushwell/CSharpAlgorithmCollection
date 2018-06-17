@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetrothedNumber", "Betrothe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldbachsConjecture", "GoldbachsConjecture\GoldbachsConjecture.csproj", "{BF876115-45FD-4401-BA1C-927E41C34683}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangularNumber", "TriangularNumber\TriangularNumber.csproj", "{2886D25C-31C3-4352-84A0-59813497AD65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,5 +99,9 @@ Global
 		{BF876115-45FD-4401-BA1C-927E41C34683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF876115-45FD-4401-BA1C-927E41C34683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF876115-45FD-4401-BA1C-927E41C34683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2886D25C-31C3-4352-84A0-59813497AD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2886D25C-31C3-4352-84A0-59813497AD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2886D25C-31C3-4352-84A0-59813497AD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2886D25C-31C3-4352-84A0-59813497AD65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
