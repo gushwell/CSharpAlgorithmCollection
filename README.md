@@ -23,6 +23,11 @@
 
 フィボナッチ数を列挙する。
 
+### GetPermutation
+
+全ての要素を使った順列を求める
+
+
 ### GoldbachsConjecture
 
 「ゴールドバッハの予想」をlong以下で確認する
