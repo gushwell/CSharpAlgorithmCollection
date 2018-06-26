@@ -31,6 +31,9 @@
 
 全ての要素を使った順列を求める
 
+### GetPermutation2
+
+n個の要素の中から k個を選ぶ順列 (重複あり、なし)
 
 ### GoldbachsConjecture
 
