@@ -3,6 +3,10 @@
 [Qiita](https://qiita.com/gushwell) に掲載した各種アルゴリズム(主に数学)サンプルの数々を公開しています。
 
 
+### ArrayRotationSample
+
+2次元配列(N*N)の回転/反転の10の操作を2つの基本操作で実現する
+
 ### AmicableNumber
 
 友愛数のペアを列挙する
@@ -64,6 +68,10 @@
 ### SieveOfEratosthenesPart3
 
 エラトステネスの篩で素数を列挙する　素数を列挙する最高のバージョン
+
+### SubsetSumProblemApp
+
+部分和問題を動的計画法で解く
 
 ### TriangularNumber
 
