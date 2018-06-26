@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangularNumber", "Triangu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPermutation", "GetPermutation\GetPermutation.csproj", "{8233D366-AA97-4D5E-AEE3-3DC9981FC910}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubsetSumProblemApp", "SubsetSumProblemApp\SubsetSumProblemApp.csproj", "{E020A5BA-F8F0-4F42-B63C-4253B656AFB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayRotationSample", "ArrayRotationSample\ArrayRotationSample.csproj", "{532E1EE7-6112-470D-9265-49ABE5CECB85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,5 +113,13 @@ Global
 		{8233D366-AA97-4D5E-AEE3-3DC9981FC910}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8233D366-AA97-4D5E-AEE3-3DC9981FC910}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8233D366-AA97-4D5E-AEE3-3DC9981FC910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E020A5BA-F8F0-4F42-B63C-4253B656AFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E020A5BA-F8F0-4F42-B63C-4253B656AFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E020A5BA-F8F0-4F42-B63C-4253B656AFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E020A5BA-F8F0-4F42-B63C-4253B656AFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532E1EE7-6112-470D-9265-49ABE5CECB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532E1EE7-6112-470D-9265-49ABE5CECB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532E1EE7-6112-470D-9265-49ABE5CECB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532E1EE7-6112-470D-9265-49ABE5CECB85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
