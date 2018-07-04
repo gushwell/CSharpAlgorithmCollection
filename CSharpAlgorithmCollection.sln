@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPermutation2", "GetPermu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCombination", "GetCombination\GetCombination.csproj", "{B08A4583-49C9-450C-A1D0-848EE92E13F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetDerangements", "GetDerangements\GetDerangements.csproj", "{2B2A172B-D7DC-4688-9A9A-DFE0AF6C66EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,5 +135,9 @@ Global
 		{B08A4583-49C9-450C-A1D0-848EE92E13F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B08A4583-49C9-450C-A1D0-848EE92E13F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B08A4583-49C9-450C-A1D0-848EE92E13F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2A172B-D7DC-4688-9A9A-DFE0AF6C66EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2A172B-D7DC-4688-9A9A-DFE0AF6C66EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2A172B-D7DC-4688-9A9A-DFE0AF6C66EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2A172B-D7DC-4688-9A9A-DFE0AF6C66EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
