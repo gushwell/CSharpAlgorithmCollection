@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCombination", "GetCombin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetDerangements", "GetDerangements\GetDerangements.csproj", "{2B2A172B-D7DC-4688-9A9A-DFE0AF6C66EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PICalculatorByMachinsFormula", "PICalculatorByMachinsFormula\PICalculatorByMachinsFormula.csproj", "{4E08E83A-C87F-4828-BFC1-A8965A75B5AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,5 +141,9 @@ Global
 		{2B2A172B-D7DC-4688-9A9A-DFE0AF6C66EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B2A172B-D7DC-4688-9A9A-DFE0AF6C66EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B2A172B-D7DC-4688-9A9A-DFE0AF6C66EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E08E83A-C87F-4828-BFC1-A8965A75B5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E08E83A-C87F-4828-BFC1-A8965A75B5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E08E83A-C87F-4828-BFC1-A8965A75B5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E08E83A-C87F-4828-BFC1-A8965A75B5AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

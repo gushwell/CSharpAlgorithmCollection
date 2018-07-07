@@ -59,6 +59,9 @@ n個の要素の中から k個を選ぶ順列 (重複あり、なし)
 
 メルセンヌ素数を利用して完全数を求める
 
+### PICalculatorByMachinsFormula
+
+マチンの公式で円周率を100万桁まで求める
 
 ### PollardsRhoPrimeFactor
 
