@@ -1,6 +1,6 @@
 # CSharpAlgorithmCollection
 
-[Qiita](https://qiita.com/gushwell) に掲載した各種アルゴリズム(主に数学)サンプルの数々を公開しています。
+[Qiita](https://qiita.com/gushwell)に掲載した各種アルゴリズム(主に数学)のサンプルプログラムのソースコードを公開しています。
 
 
 ### ArrayRotationSample
@@ -54,6 +54,18 @@ n個の要素の中から k個を選ぶ順列 (重複あり、なし)
 ### LeastCommonMultiple
 
 最小公倍数を求める
+
+### MazeBreadthFirstSearch
+
+迷路を幅優先探索で解く
+
+### MazeDepthFirstSearch
+
+迷路を深さ優先探索で解く
+
+### MazeSolverWavelikeSearch
+
+迷路を波状探索で解く
 
 ### MersennePrime
 
