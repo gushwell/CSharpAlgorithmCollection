@@ -3,7 +3,7 @@ using System.Linq;
 using System.Collections.Generic;
 
 namespace MergeSortApp {
-    static class MargeSort {
+    static class MergeSort {
         public static IEnumerable<T> Sort<T>(IEnumerable<T> items, Comparison<T> compare) {
             if (items.Count() > 1) {
                 int m = items.Count() / 2;

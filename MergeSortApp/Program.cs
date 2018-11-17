@@ -13,7 +13,7 @@ namespace MergeSortApp {
                     nums[i] = rnd.Next(1, 10000);
                 }
 
-                var result = MargeSort.Sort(nums, (a, b) => a - b);
+                var result = MergeSort.Sort(nums, (a, b) => a - b);
                 // LINQのOrderByメソッドの結果と比較することで、MergeSortが正しく整列されているかを確認している
                 bool isEqual = Enumerable.SequenceEqual(result, nums.OrderBy(n => n));
                 Console.WriteLine(isEqual);
