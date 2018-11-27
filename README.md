@@ -15,6 +15,10 @@
 
 婚約数(準友愛数)のペアを列挙する
 
+### CatCommand
+
+簡易catコマンド -　IEnumerable<T>の実装サンプル
+
 ### EnumerateKaprekarNumber 
 
 カプレカ数を列挙する
@@ -106,6 +110,10 @@ n個の要素の中から k個を選ぶ順列 (重複あり、なし)
 ### SubsetSumProblemApp
 
 部分和問題を動的計画法で解く
+
+### TailCommand
+
+RingBufferクラスを自作し、簡易Tailコマンドを作成する
 
 ### TriangularNumber
 
